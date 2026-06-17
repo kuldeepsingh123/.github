@@ -33,7 +33,7 @@ Event-driven trading microservices ecosystem focused on:
 
 ---
 
-### 🧠 MicroMinds AI
+### 🧠 Micro Minds AI
 
 AI Engineering Lab exploring:
 
