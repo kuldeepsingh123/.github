@@ -119,6 +119,8 @@ Java | Spring Boot | Kafka
 
 - 💼 LinkedIn: https://linkedin.com/in/kuldeepsingh-engineer
 - 🐙 GitHub: https://github.com/kuldeepsingh123
+- 🚀 TradeMesh-AI: https://github.com/trade-mesh-ai
+- 🧠 MicroMinds AI: https://github.com/microminds-ai
 
 ---
 
